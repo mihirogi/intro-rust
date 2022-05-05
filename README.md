@@ -1,4 +1,4 @@
 # intro-rust
 
-0. [便利ツールたち](./documents/)
+0. [便利ツールたち](./documents/tools.md)
 1. [HelloWorldする](./documents/helloworld.md)
